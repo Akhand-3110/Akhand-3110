@@ -45,7 +45,7 @@ A local AI that reads documents, creates embeddings, stores them in ChromaDB, an
 ---
 
 ## 🧩 LeetCode Progress
-![LeetCode](https://leetcard.jacoblin.cool/AkhandPratapSingh?theme=dark)
+![LeetCode](https://leetcard.jacoblin.cool/_chiku_3110?theme=dark)
 
 ---
 
