@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Akhand Pratap Singh  
+### AI Engineer • BTech CSE (AI)
 
-<!--
-**Akhand-3110/Akhand-3110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![banner](banner.png)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!  
+I build AI systems, RAG pipelines, embeddings, and automation tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Focused Areas
+
+- 🤖 **AI Engineering** — embeddings, RAG, vector search  
+- 📄 **AI Document Assistants** — ChromaDB + HuggingFace  
+- 🧠 **DSA Problem Solving** — 325+ LeetCode problems  
+- 🛠 **Practical AI Tools** — Python automation & utilities  
+
+---
+
+## ⚙️ Tech Stack
+
+**Languages:**  
+Python • C++ • HTML • CSS  
+
+**AI / ML:**  
+NumPy • Pandas • Scikit-learn • HuggingFace • Vector Search • RAG  
+
+**Tools:**  
+Streamlit • Git • GitHub  
+
+---
+
+## 🚀 Featured Project
+
+### **AI Document Assistant (RAG-based)**  
+A local AI that reads documents, creates embeddings, stores them in ChromaDB, and answers questions using semantic search.
+
+🔗 Repo → https://github.com/Akhand-3110/AI-Doc-Assistant
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Akhand-3110&show_icons=true&theme=transparent)
+
+---
+
+## 🧩 LeetCode Progress
+![LeetCode](https://leetcard.jacoblin.cool/AkhandPratapSingh?theme=dark)
+
+---
+
+## 📫 Contact  
+**Email:** akhandp765@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/akhand-pratap-singh-1a7939307/  
+
+---
