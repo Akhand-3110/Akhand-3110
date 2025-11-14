@@ -4,7 +4,7 @@
 ![banner](banner.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=900&color=00E5FF&center=true&vCenter=true&width=500&lines=AI+Engineer;RAG+%26+Vector+Database+Developer;325%2B+LeetCode+Problems+Solved;Building+AI+Tools+%26+Assistants" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=900&color=00E5FF&center=true&vCenter=true&width=500&lines=AI+Engineer;RAG+%26+Vector+Database+Learner;325%2B+LeetCode+Problems+Solved;Building+AI+Tools+%26+Assistants" alt="Typing Animation" />
 </p>
 
 ---
