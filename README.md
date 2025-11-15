@@ -4,8 +4,9 @@
 ![banner](banner.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Aspiring+AI+Engineer;Python+%26+ML+Learner;NLP+%26+DBMS+Beginner;325%2B+LeetCode+Problems+Solved" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&lines=Aspiring+AI+Engineer;Python+%7C+ML+Basics+%7C+NLP;325%2B+LeetCode+Problems;Building+AI+Projects" />
 </p>
+
 
 
 
