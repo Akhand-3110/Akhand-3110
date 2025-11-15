@@ -4,8 +4,9 @@
 ![banner](banner.png)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Akhand%20Pratap%20Singh&fontSize=40&fontAlignY=40&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00f7ff,100:0047ff&height=180&section=header&text=Akhand%20Pratap%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
+
 
 
 
