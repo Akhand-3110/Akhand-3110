@@ -4,8 +4,9 @@
 ![banner](banner.png)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00f7ff,100:0047ff&height=180&section=header&text=Akhand%20Pratap%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Aspiring+AI+Engineer;Python+%26+ML+Learner;NLP+%26+DBMS+Beginner;325%2B+LeetCode+Problems+Solved" />
 </p>
+
 
 
 
