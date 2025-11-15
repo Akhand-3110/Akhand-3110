@@ -4,8 +4,9 @@
 ![banner](banner.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Aspiring+AI+Engineer;Python+%26+ML+Learner;NLP+%26+DBMS+Beginner;325%2B+LeetCode+Problems+Solved;Building+AI+Projects+Step+by+Step" alt="Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Akhand%20Pratap%20Singh&fontSize=40&fontAlignY=40&animation=twinkling" />
 </p>
+
 
 
 ---
