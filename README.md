@@ -14,7 +14,7 @@
 
 - 🤖 **AI Engineering** – RAG systems, embeddings, semantic search, vector databases  
 - 📄 **Document AI** – building intelligent assistants using ChromaDB + HuggingFace  
-- 🧠 **Algorithmic Problem Solving** – 325+ LeetCode problems  
+- 🧠 **Algorithmic Problem Solving** – 350+ LeetCode problems  
 - 🛠 **Practical Automation** – Python utilities, local AI tools, backend pipelines  
 
 ---
